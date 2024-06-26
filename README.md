@@ -35,14 +35,14 @@
       ```
 
 ## Gameplay
-Experience the classic platformer action with **Jungle-Rumble**. Guide your character through a vibrant jungle environment, avoid obstacles, and defeat enemies to advance through the levels. The SNES controller provides a nostalgic touch, enhancing the retro gaming experience
+Experience the classic platformer action with **Jungle-Rumble**. Guide your character through a vibrant jungle environment, avoid obstacles, and defeat enemies to advance through the levels. The SNES controller provides a nostalgic touch, enhancing the retro gaming experience.
 
 ## Contributing
 I welcome contributions from the community to enhance the game. If you would like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push them to your fork.
-4. Open a pull request with a detailed description of your changes.
+1. Fork the repository
+2. Create a new branch for your feature or bugfix
+3. Commit your changes and push them to your fork
+4. Open a pull request with a detailed description of your changes
 
 ## Contact
 For any questions or support, please open an issue on the GitHub repository or contact the maintainers.
