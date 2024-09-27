@@ -14,7 +14,7 @@
 1. **Connect your hardware:**
     - Connect the Raspberry Pi 4 to your computer
     - Connect the SNES controller to the Raspberry Pi
-    - Connect the Raspberry Pi to an external monitor via HDMI
+    - Connect the Raspberry Pi to an external monitor via HDMI.
 
 2. **Running the game:**
     - Open a terminal and run the following command:
