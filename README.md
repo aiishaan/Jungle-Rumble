@@ -27,7 +27,7 @@
       ```
     - In GDB, run the following commands:
       ```sh
-      set architecture aarch64.
+      set architecture aarch64
       target extended-remote :3333
       make
       load kernel8.elf
