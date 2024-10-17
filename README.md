@@ -10,7 +10,7 @@
 - Fedora Linux OS with the ability to run the `openocd` command
 - GDB (GNU Debugger)
 
-## Setup Instructions
+## Setup Instructions.
 1. **Connect your hardware:**
     - Connect the Raspberry Pi 4 to your computer
     - Connect the SNES controller to the Raspberry Pi
