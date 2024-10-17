@@ -45,7 +45,7 @@ I welcome contributions from the community to enhance the game. If you would lik
 4. Open a pull request with a detailed description of your changes
 
 ## Contact
-For any questions or support, please open an issue on the GitHub repository or contact the maintainerss
+For any questions or support, please open an issue on the GitHub repository or contact the maintainers
 
 Enjoy playing **Jungle-Rumble** and relive the retro gaming era!
 
