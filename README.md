@@ -7,7 +7,7 @@
 - Raspberry Pi 4
 - SNES controller
 - External monitor (connected via HDMI)
-- Fedora Linux OS with the ability to run the `openocd` command.
+- Fedora Linux OS with the ability to run the `openocd` command
 - GDB (GNU Debugger)
 
 ## Setup Instructions
