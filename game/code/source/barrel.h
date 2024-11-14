@@ -1,4 +1,4 @@
-/* GIMP RGBA C-Source image dump (barrel.c) */.
+/* GIMP RGBA C-Source image dump (barrel.c) */
 
 static const struct {
   unsigned int 	 width;
