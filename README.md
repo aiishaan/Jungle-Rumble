@@ -1,4 +1,4 @@
-# Jungle-Rumble
+# Jungle-Rumble.
 
 ## Overview
 **Jungle-Rumble** is a captivating retro platformer game inspired by Donkey Kong, designed specifically for the Raspberry Pi. Dive into the jungle and navigate through exciting levels, encountering various challenges and enemies along the way
